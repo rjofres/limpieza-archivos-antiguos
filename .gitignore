@@ -1,0 +1,51 @@
+# 🐍 Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 📦 Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# 🔍 Archivos de log o salida
+*.log
+*.out
+*.bak
+
+# 💻 Configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# 🧪 Archivos de pruebas
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# 🛠️ Configs de editores/IDE
+.vscode/
+.idea/
+*.swp
+
+# 📦 Paquetes y distribuciones
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🔐 Archivos sensibles (si los usas)
+.env.local
+.env.*.local
+*.secret
+*.key
+*.pem
+
+# ⚙️ Archivos generados por herramientas
+*.spec
+*.lock
+Pipfile.lock
+poetry.lock
