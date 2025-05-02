@@ -36,3 +36,10 @@ Este script en Python 3 automatiza la eliminación de archivos antiguos de una c
 ## Licencia
 
 MIT License. Consulta el archivo `LICENSE`.
+
+## Video del tutorial
+Puedes seguir un paso a paso completo en el siguiente video:
+
+[![Ver el tutorial en YouTube](https://img.youtube.com/vi/r1KrsChmNgw/hqdefault.jpg)](https://www.youtube.com/watch?v=r1KrsChmNgw)
+
+> 🔗 [https://www.youtube.com/watch?v=r1KrsChmNgw](https://www.youtube.com/watch?v=r1KrsChmNgw)
